@@ -4,3 +4,4 @@ Filler text.
 Filler text.
 Filler text.
 Filler text.
+Additional text added after initial session.

@@ -1,1 +1,4 @@
-itnoreMe.txt
+ignoreMe.txt
+*.log
+log/
+ignoreMe/

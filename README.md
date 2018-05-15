@@ -12,7 +12,7 @@ Filler text.
 
 ## How to Contribute
 
-Filler text.
+Fork this repository, then issue pull requests for review.
 
 ## Deployment
 

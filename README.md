@@ -17,3 +17,7 @@ Filler text.
 ## Deployment
 
 Filler text.
+
+## Copyright
+
+This is a mock copyright.

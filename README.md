@@ -2,6 +2,7 @@
 
 A simple website project for learning to use Git and GitHub together.
 
+Adding a line for rebasing example. 
 ## Instroduction
 
 Filler text.

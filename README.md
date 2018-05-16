@@ -3,6 +3,8 @@
 A simple website project for learning to use Git and GitHub together.
 
 Adding a line for rebasing example. 
+Then adding more changes from my feature branch.
+
 ## Instroduction
 
 Filler text.

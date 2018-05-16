@@ -1,4 +1,5 @@
 ignoreMe.txt
+*.orig
 *.log
 log/
 ignoreMe/

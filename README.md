@@ -23,4 +23,4 @@ Filler text.
 
 ## Copyright
 
-This is a mock copyright.
+This is a mock copyright. All rights reserved.
